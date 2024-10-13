@@ -60,11 +60,17 @@ python flow.py
 ```
 
 ### Usage
-[Add specific instructions on how to use the CLI, including available commands and options]
+1. When prompted, enter the path to the PDF file you want to process.
+2. The CLI will analyze the resume and display the results, including any errors or extracted information.
+3. Follow the on-screen prompts for any additional actions or to process another resume.
 
 ### Screenshot
 You can find a screenshot of the CLI interface in the `screenshot` folder:
-- `screenshot\screenshot1.png`: This image shows the command-line interface in action, demonstrating how to input commands and view results.
+- `screenshot1.png`: This image shows the command-line interface in action, demonstrating how to input commands and view results.
+
+To view the screenshot:
+1. Navigate to the `screenshot` folder in the project directory.
+2. Open `screenshot1.png` with any image viewer on your system.
 
 ## resume_processing_gui
 
@@ -87,12 +93,18 @@ streamlit run flow.py
 ### Usage
 1. After running the command, Streamlit will start a local server and provide a URL (usually http://localhost:8501).
 2. Open this URL in your web browser to access the GUI.
-3. [Add specific instructions on how to use the GUI, including available features and how to navigate the interface]
+3. Use the file upload feature to select a resume PDF for processing.
+4. The GUI will display the analysis results, including any errors or extracted information.
+5. You can process multiple resumes in succession using the interface.
 
 ### Screenshots
 You can find screenshots of the GUI interface in the `screenshot` folder:
 - `screenshot2.png`: This image shows the main interface of the Streamlit GUI, including the file upload area and any initial options.
 - `screenshot3.png`: This image demonstrates the results display in the GUI after processing a resume, showing how errors or extracted information is presented.
+
+To view the screenshots:
+1. Navigate to the `screenshot` folder in the project directory.
+2. Open `screenshot2.png` and `screenshot3.png` with any image viewer on your system.
 
 ## Additional Information
 
@@ -100,5 +112,5 @@ You can find screenshots of the GUI interface in the `screenshot` folder:
 - The GUI version requires an internet connection to load the Streamlit interface.
 - You can use the provided sample PDFs to test the functionality of both the CLI and GUI versions.
 - Ensure that you have set up the `.env` file with the correct API keys before running either application.
-- Refer to the screenshots in the `screenshot` folder to get a visual understanding of both interfaces.
+- To get a visual understanding of both interfaces, refer to the screenshots in the `screenshot` folder as described above.
 - For any issues or questions, please refer to the documentation or contact the project maintainer.
