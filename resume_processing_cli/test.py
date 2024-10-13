@@ -1,0 +1,4 @@
+string_s = {"education": {"degree": "invalid", "university": "Unsupported file format. Please provide a PDF or DOCX file."}, "personal_info": {"email": "johndoe@email.com", "name": "John Doe", "phone_no": 1234567890}, "skills": "Programming Languages: Python, JavaScript, C++\nFrameworks: React, Node.js, Django\nDatabases: MySQL, PostgreSQL, MongoDB\nTools: Git, Docker, Kubernetes", "work_experience ": {"company": "Tech Innovations Inc.", "description": "Developed and maintained RESTful APIs using Node.js and Express, improving system\nperformance\nby 20%.\nLed the integration of new front-end features using React, boosting user engagement by 30%.\nWorked with a team to migrate legacy systems to cloud infrastructure, reducing operational costs\nby 15%.", "end_date": "Present", "role": "Software Engineer", "start_date": "June 2021"}}
+
+if "No text found" in str(string_s.lower()):
+    print("yes")

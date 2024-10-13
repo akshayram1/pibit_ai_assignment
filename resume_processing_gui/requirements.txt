@@ -1,0 +1,8 @@
+langchain-core
+pydantic
+langgraph
+google-generativeai
+python-docx
+pypdf2
+streamlit
+python-dotenv

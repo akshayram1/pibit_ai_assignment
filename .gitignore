@@ -1,0 +1,7 @@
+# Ignore virtual environments
+resume_processing_gui/venv/
+resume_processing_cli/venv/
+
+# Ignore environment files
+resume_processing_gui/.env
+resume_processing_cli/.env
