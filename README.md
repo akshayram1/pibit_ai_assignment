@@ -101,6 +101,8 @@ You can find screenshots of the GUI interface in the `screenshot` folder:
 - `screenshot3.png`: This image demonstrates the results display in the GUI after processing a resume, showing how errors or extracted information is presented.
 
 ## Additional Information
+- ![GUI Interface after user feedback](screenshot/screenshot5.png)
+-  This image shows the langsmith dashboard
 
 - Make sure you have Python installed on your system before starting.
 - The GUI version requires an internet connection to load the Streamlit interface.
