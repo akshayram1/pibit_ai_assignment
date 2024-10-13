@@ -93,6 +93,10 @@ streamlit run flow.py
 
 ### Screenshots
 You can find screenshots of the GUI interface in the `screenshot` folder:
+- [GUI Interface](screenshot/screenshot2.png)
+- [GUI Interface with Error Handling](screenshot/screenshot3.png)
+- [GUI Interface after user feedback](screenshot/screenshot4.png)
+
 - `screenshot2.png`: This image shows the main interface of the Streamlit GUI, including the file upload area and any initial options.
 - `screenshot3.png`: This image demonstrates the results display in the GUI after processing a resume, showing how errors or extracted information is presented.
 
