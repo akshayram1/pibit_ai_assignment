@@ -64,7 +64,8 @@ python flow.py
 
 ### Screenshot
 You can find a screenshot of the CLI interface in the `screenshot` folder:
-(screenshot\screenshot1.png)
+![CLI Interface](screenshot/screenshot1.png)
+
 - `screenshot/screenshot1.png`: This image shows the command-line interface in action, demonstrating how to input commands and view results.
 
 ## resume_processing_gui
